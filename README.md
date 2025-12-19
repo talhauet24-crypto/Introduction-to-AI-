@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">Currently studying at University of Engineering and Technology Peshawar at Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhauet24-crypto" alt="talhauet24-crypto" /></a> </p>
 
 - 🔭 I’m currently working on **Computing and AI**
 
