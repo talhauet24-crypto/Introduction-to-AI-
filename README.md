@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Computing and AI**
 
-- 🌱 I’m currently learning **Phython for Everybody**
+- 🌱 I’m currently learning **Phython**
 
 - 👯 I’m looking to collaborate on **Computing and AI**
 
